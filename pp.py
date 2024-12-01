@@ -1,2 +1,4 @@
+import streamlit as st
+
 # Menampilkan emoji bunga
-print("🌸🌼🌻🌺💐")
+st.write("🌸🌼🌻🌺💐")
